@@ -1,0 +1,129 @@
+#Titule{
+    font-size: 50px;
+    margin-top: 0px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#Padre{
+    background-image: url(/IMG/JSansalone\ Logo\ copia.png);
+    position: sticky;
+    top: 0px;
+    height: 150px;
+    width: 100%;
+    background-color: rgb(138, 10, 10);
+}
+#Hijo1{
+    display: inline-block;
+    margin-left: 770px;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo2{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo3{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo4{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo5{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.imagen{
+    background-image: url(../IMG/ciudad.jpg);
+    background-repeat: no-repeat; 
+    background-size:cover;
+    height: 400px;
+}
+#Contactenos{
+    color: white;
+    font-size: 35px;
+}
+main{
+    background-color: rgb(70, 86, 224);
+    height: 450px;
+
+}
+.Subtitule{
+    text-decoration: underline;
+    margin-left: 20px;
+    
+}
+#Formulario{
+    margin-top: 20px;
+    
+}
+#nombre{
+    margin-left: 40px;
+    margin-right: 900px;
+    margin-bottom: 5px;
+}
+#Email{
+    margin-left: 40px;
+    margin-right: 900px;
+    margin-bottom: 5px;
+}
+#Telefono{
+    margin-left: 40px;
+    margin-right: 900px;
+    margin-bottom: 5px;
+}
+#Asunto{
+    margin-left: 40px;
+    margin-right: 900px;
+    margin-bottom: 5px;
+}
+#Mensaje{
+    margin-left: 40px;
+    margin-right: 5px;
+}
+#Medios{
+    margin-left: 20px;
+    margin-right: 800px;
+    font-weight: 900;
+    font-size: 20px;
+    border-style: solid;
+}
+.Terminos{
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+.Ubicacion{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.Redes{
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+.colorh3{
+    color: red;
+    margin-left: 40px;
+}

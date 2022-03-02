@@ -1,0 +1,90 @@
+#Titule{
+    font-size: 50px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}    
+#Padre{
+    background-image: url(/IMG/JSansalone\ Logo\ copia.png);
+    position: sticky;
+    top: 0px;
+    height: 150px;
+    width: 100%;
+    background-color: rgb(138, 10, 10);
+}
+#Hijo1{
+    display: inline-block;
+    margin-left: 770px;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo2{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo3{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo4{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo5{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Titule2{
+    color:rgb(23, 23, 146);
+    text-align: center;
+    font-size: 50px;
+}
+    
+.colorh2{
+    color: brown;
+}
+.colorh3{
+    color: red;
+}
+.colorsubtitulo{
+    color: whitesmoke;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+main{
+    background-image: url(../IMG/estrategia.jpg);
+    background-repeat: no-repeat; 
+    background-size:cover;
+    height: 550px;
+}
+.Terminos{
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+.Ubicacion{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.Redes{
+    margin-top: 30px;
+    margin-left: 30px;
+
+}

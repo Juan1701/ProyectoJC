@@ -1,0 +1,128 @@
+#Titule{
+    font-size: 50px;
+    margin-top: 0px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}    
+#Padre{
+    background-image: url(/IMG/JSansalone\ Logo\ copia.png);
+    position: sticky;
+    top: 0px;
+    height: 150px;
+    width: 100%;
+    background-color: rgb(138, 10, 10);
+}
+#Hijo1{
+    display: inline-block;
+    margin-left: 770px;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo2{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo3{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo4{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo5{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Titule2{
+    text-align: center;
+    font-size: 70px;
+    text-decoration: underline;
+}  
+a{
+    text-decoration: none;
+    color: black;
+}
+.section1{
+    background-image: url(../IMG/images_marketing.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 150px;
+    margin-bottom: 70px;
+    margin-top: 20px;
+}
+#Marketing{
+    
+    color: brown;
+    margin-top: 140px;
+    
+}
+.section2{
+    background-image: url(../IMG/images_Cerebro.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 150px;
+    margin-bottom: 70px;
+    margin-top: 20px;
+}
+#Asesoramiento{
+    color: brown;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 140px;
+    
+}
+.section3{
+    background-image: url(../IMG/imagen_ventas.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 150px;
+    margin-bottom: 70px;
+    margin-top: 40px;
+
+}
+#Ventas{
+    color: brown;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 140px;
+}
+main{
+    background-color: rgb(43, 150, 185);
+    background-repeat: no-repeat; 
+    background-size:cover;
+    height: 800px;
+}
+.Terminos{
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+.Ubicacion{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.Redes{
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+.colorh3{
+    color: red;
+}

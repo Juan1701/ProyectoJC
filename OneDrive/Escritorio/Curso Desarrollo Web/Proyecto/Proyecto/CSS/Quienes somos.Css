@@ -1,0 +1,109 @@
+#Titule{
+    font-size: 50px;
+    margin-top: 20px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#Padre{
+    position: sticky;
+    top: 0px;
+    height: 150px;
+    width: 100%;
+    background-color: rgb(138, 10, 10);
+}
+#Hijo1{
+    display: inline-block;
+    margin-left: 770px;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo2{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo3{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo4{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo5{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+.colorh3{
+    color: red;
+    margin-bottom: 8px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+main{
+    background-repeat: no-repeat;
+    height: 150px;
+}
+.parrafo{
+    margin-bottom: 100px;
+    background-image: url(../IMG/imagen\ oficina.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+    color: white;
+    
+}
+ul{
+    color: green;
+}
+.Lista1{
+    margin-top: 0px;
+    margin-bottom: 4px;
+    margin-left: 25px;
+    
+}
+.Lista2{
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 25px;
+}
+.Lista3{
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 25px;
+}
+.Lista4{
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 25px;
+}
+.Terminos{
+    margin-top: 0px;
+    margin-left: 30px;
+    
+}
+.Ubicacion{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.Redes{
+    margin-top: 30px;
+    margin-left: 30px;
+}

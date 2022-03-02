@@ -1,0 +1,190 @@
+#Titule{
+    font-size: 50px;
+    margin-top: 0px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#Padre{
+    background-image: url(/IMG/JSansalone\ Logo\ copia.png);
+    position: sticky;
+    top: 0px;
+    height: 150px;
+    width: 100%;
+    background-color: rgb(138, 10, 10);
+}
+#Hijo1{
+    display: inline-block;
+    margin-left: 770px;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo2{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo3{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo4{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+#Hijo5{
+    display: inline-block;
+    background-color: rgb(138, 10, 10);
+    font-size: 23px;
+    font-weight: 800;
+    margin-right: 7px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+main{
+    background-color: rgb(167, 9, 9);
+    height: 400px;
+}
+#Titule2{
+    text-align: center;
+    color: rgb(170, 141, 11);
+    text-decoration: underline rgb(170, 141, 11);
+    font-size: 900;
+}
+.Mujer1{
+    display: inline-block;
+    background-image: url(../IMG/ejecutivo\ mujer.jpg);
+    width: 103px;
+    height: 185px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 40px;
+    margin-left: 120px;
+    margin-right: 50px;
+}
+#Juana{
+    color: rgb(170, 141, 11);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 140px;
+}
+.Hombre1{
+    display: inline-block;
+    background-image: url(../IMG/Hombre\ Nuevo.jpg);
+    width: 103px;
+    height: 185px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-bottom: 70px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+#Marcos{
+    color: rgb(170, 141, 11);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 140px;
+}
+.Hombre2{
+    display: inline-block;
+    background-image: url(../IMG/Hombre\ Nuevo.jpg);
+    width: 103px;
+    height: 185px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-bottom: 70px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+#Cesar{
+    color: rgb(170, 141, 11);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 140px;
+}
+.Mujer2{
+    display: inline-block;
+    background-image: url(../IMG/ejecutivo\ mujer.jpg);
+    width: 103px;
+    height: 185px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-bottom: 70px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+#Olivia{
+    color: rgb(170, 141, 11);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 140px;
+}
+.Mujer3{
+    display: inline-block;
+    background-image: url(../IMG/ejecutivo\ mujer.jpg);
+    width: 103px;
+    height: 185px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-bottom: 70px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+#Valentina{
+    color: rgb(170, 141, 11);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 140px;
+}
+.Hombre3{
+    display: inline-block;
+    background-image: url(../IMG/Hombre\ Nuevo.jpg);
+    width: 103px;
+    height: 185px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-bottom: 70px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+#Alejandro{
+    color: rgb(170, 141, 11);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 140px;
+}
+.Terminos{
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+.Ubicacion{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.Redes{
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+.colorh3{
+    color: red;
+}
